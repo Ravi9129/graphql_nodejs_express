@@ -1,0 +1,14 @@
+// server
+npm install @apollo/server graphql
+npm install body-parser cors  
+npm axios
+apm @types/axios
+
+http://localhost:8000/graphql
+https://www.apollographql.com/docs/apollo-server/getting-started/
+
+//client
+npx create-react-app .
+npm start
+
+https://www.apollographql.com/docs/react/
